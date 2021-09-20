@@ -1,0 +1,11 @@
+Game is LOSS
+KTS ID FD KD LT
+220     1     0     219     219     
+250     5     0     242     242     
+255     12     0     215     215     
+263     3     0     259     259     
+273     13     0     223     223     
+274     8     0     259     259     
+278     10     0     261     261     
+Number of killed enemies = 7
+Number of alive enemies = 8
