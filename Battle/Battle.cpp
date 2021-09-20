@@ -307,7 +307,7 @@ void Battle::Save()
 	pGUI->PrintMessage("Enter the name of the file to be saved to.");
 	sfilename = pGUI->GetString();
 	savefile.open(sfilename + ".txt", ios::out);
-	/*The game is “win” if all enemies are killed. The game is “loss” if the castle is destroyed.
+	/*The game is Â“winÂ” if all enemies are killed. The game is Â“lossÂ” if the castle is destroyed.
 	Otherwise, the game is "drawn".*/
 	float avg_KD;
 	float avg_FD;
