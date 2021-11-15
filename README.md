@@ -1,4 +1,4 @@
-#Castle battle simulation with different types of enemies criteria
+# Castle battle simulation with different types of enemies criteria
 the simulation receives information about a list of enemies as input from an input file. 
 This list represents the scenario to be simulated. For each enemy the system will receive the following information:
 - Arrival Time stamp (Enemy Arrival Time): When the enemy arrives.
